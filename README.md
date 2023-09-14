@@ -1,6 +1,6 @@
 # Backend de Nodejs
 
-Este es mi proyecto de Node.js generado con ChatGPT 3.5. Aquí se encuentra una breve descripción del proyecto.
+Este es mi proyecto 1 de comercio para desarrollo web
 
 ## Instalación
 
@@ -14,7 +14,7 @@ Para instalar este proyecto, sigue estos pasos:
 Para ejecutar el proyecto, utiliza el siguiente comando:
 
 ```
-npm start
+npm run start
 ```
 
 ## Licencia
