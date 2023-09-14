@@ -17,6 +17,8 @@ Para ejecutar el proyecto, utiliza el siguiente comando:
 npm run start
 ```
 
+## Dentro de los archivos se encuentran tanto el manual técnico como el manual de usuario
+
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo `LICENSE` para más información.
